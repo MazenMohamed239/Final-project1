@@ -1,6 +1,8 @@
 # Weather-App
 This project automates the deployment of a Flask-based weather application using Jenkins, Docker, and Ansible. The setup includes building a Docker image, pushing it to Docker Hub, and deploying it on a remote web server.
 
+![Screenshot (652)](https://github.com/user-attachments/assets/904389be-7f5f-4ea6-b8d2-7691436e72b3)
+
 ### Project Structure
 ```
 
@@ -80,4 +82,10 @@ http://your-server-ip:5000
 ```
 
 ### VM1 Screenshot
+![Screenshot (648)](https://github.com/user-attachments/assets/c88986f9-c873-4a60-92e1-312087bf5b11)
+
+### VM2 Screenshot
+![Screenshot (649)](https://github.com/user-attachments/assets/f963a4cc-8356-46a5-aab0-de0902f8b84e)
+
+
 
