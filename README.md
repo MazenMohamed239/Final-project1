@@ -80,6 +80,10 @@ Access the app:
 ```
 http://your-server-ip:5000
 ```
+### Jenkins Pipeline Screenshot
+
+![Screenshot (653)](https://github.com/user-attachments/assets/2b3d579c-67d2-485f-9407-ea95644be21e)
+
 
 ### First EC2 Screenshot
 ![Screenshot (648)](https://github.com/user-attachments/assets/c88986f9-c873-4a60-92e1-312087bf5b11)
