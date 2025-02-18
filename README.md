@@ -81,10 +81,10 @@ Access the app:
 http://your-server-ip:5000
 ```
 
-### VM1 Screenshot
+### First EC2 Screenshot
 ![Screenshot (648)](https://github.com/user-attachments/assets/c88986f9-c873-4a60-92e1-312087bf5b11)
 
-### VM2 Screenshot
+### Second EC2 Screenshot
 ![Screenshot (649)](https://github.com/user-attachments/assets/f963a4cc-8356-46a5-aab0-de0902f8b84e)
 
 
